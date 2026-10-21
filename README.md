@@ -27,6 +27,8 @@ Now learning Software Development with AI.</p>
     <td><p>day 1</p></td> 
     <td><p>day 2</p></td> 
     <td><p>day 3</p></td> 
+
+    </table>
     <td><p>day 4</p></td> 
     <td><p>day 5</p></td> 
   </tr>
