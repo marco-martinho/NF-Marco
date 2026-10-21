@@ -6,3 +6,12 @@ Now learning Software Development with AI.
 
 2. link https://kommodo.ai/i/yPHfElprkB9pnB6wg9Cl
 
+3. 
+
+3.1. 
+- day 1
+- day 2
+- day 3
+- day 4
+- day 5
+
