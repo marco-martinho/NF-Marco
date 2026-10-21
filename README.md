@@ -1,10 +1,9 @@
 # NF-Marco
 1st challenge
 
-1. Born in the stunning city of Lisbon, moved to the UK for College, After 11 years, mostly in London, moved to Berlin Germany in 2008. 
-Now learning Software Development with AI.
 
-2. link https://kommodo.ai/i/yPHfElprkB9pnB6wg9Cl
+
+
 
 3. 
 
@@ -15,9 +14,23 @@ Now learning Software Development with AI.
 - day 4
 - day 5
 
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="your-image-url.gif" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🚀 Project Title</h3>
+      <p>1. Born in the stunning city of Lisbon, moved to the UK for College, After 11 years, mostly in London, moved to Berlin Germany in 2008. 
+Now learning Software Development with AI.</p>
+    </td>
+    <p>2. link https://kommodo.ai/i/yPHfElprkB9pnB6wg9Cl
+    </p>
+    <p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
+  </tr>
+</table>
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9xbHY2eXpkd215emh2cHJocWcxcG1pNGYxazVsMTRyZ203YmRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/civvrBaWyMcmDZ52Gq/giphy.gif" width="100%">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
