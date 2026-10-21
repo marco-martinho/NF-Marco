@@ -18,5 +18,6 @@ Now learning Software Development with AI.
 
 
 <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9xbHY2eXpkd215emh2cHJocWcxcG1pNGYxazVsMTRyZ203YmRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/civvrBaWyMcmDZ52Gq/giphy.gif" width="100%">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
