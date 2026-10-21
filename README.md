@@ -23,10 +23,6 @@ Now learning Software Development with AI.</p>
       <h3>🚀 Project Title</h3>
       <p>2. link https://kommodo.ai/i/yPHfElprkB9pnB6wg9Cl</p>
     </td>
-    <td>
-      <h3>🚀 Project Title</h3>
-      <p>2. link https://kommodo.ai/i/yPHfElprkB9pnB6wg9Cl</p>
-    </td>
     <td><p>3.</p></td> 
     <td><p>3.1</p></td> 
     <td><p>day 1</p></td> 
