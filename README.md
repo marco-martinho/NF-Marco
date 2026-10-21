@@ -29,7 +29,7 @@ Now learning Software Development with AI.</p>
     <td><p>day 3</p></td> 
     <td><p>day 4</p></td> 
     <td><p>day 5</p></td> 
-  <tr>
+  </tr>
 </table>
 
 
