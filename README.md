@@ -18,5 +18,5 @@ Now learning Software Development with AI.
 
 
 <p align="center">
-  <img width="250" src="https://github.com/ari-hacks/ari-hacks.git">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
