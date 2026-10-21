@@ -15,3 +15,8 @@ Now learning Software Development with AI.
 - day 4
 - day 5
 
+
+
+<p align="center">
+  <img width="250" src="https://github.com/ari-hacks/ari-hacks.git">
+</p>
