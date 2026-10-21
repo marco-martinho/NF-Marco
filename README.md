@@ -1,16 +1,10 @@
 # NF-Marco
 
-
-
-
-
-
-
-
 <table width="100%">
   <tr>
-  <align="center" colspan="2">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
+  <td><align="center" colspan="2">
+      <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
+    </td>
   </tr>
   <tr>
     <td>
