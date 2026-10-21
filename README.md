@@ -14,7 +14,7 @@
 Now learning Software Development with AI.</p>
     </td>
     <td>
-      <h3>🚀 link to image</h3>
+      <h3>🚀 new week</h3>
       <p>2. link https://kommodo.ai/i/yPHfElprkB9pnB6wg9Cl</p>
     </td>
     <td><p>3.</p></td> 
