@@ -5,8 +5,7 @@
   <td align="center" colspan="2">
       <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
     </td>
-  </tr>
-  <tr>
+
     <td>
       <h3>🚀 1st challenge</h3>
       <p>1. Born in the stunning city of Lisbon, moved to the UK for College, After 11 years, mostly in London, moved to Berlin Germany in 2008. 
